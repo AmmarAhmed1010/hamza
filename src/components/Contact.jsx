@@ -92,12 +92,12 @@ const Contact = () => {
 
   return (
     <>
-      <div className="mb-8">
+      {/* <div className="mb-8">
         <h3 className="text-white text-2xl font-bold">Contact Information</h3>
         <p className="text-white mt-2">Email: <a href="mailto:hamza.mumtaz5@gmail.com" className="text-[#915EFF]">hamza.mumtaz5@gmail.com</a></p>
         <p className="text-white">LinkedIn: <a href="http://linkedin.com/in/hamza-m-4846869b/" className="text-[#915EFF]" target="_blank" rel="noopener noreferrer">hamza-m-4846869b</a></p>
         <p className="text-white">Phone: <a href="tel:+923354849883" className="text-[#915EFF]">+92 335 4849883</a></p>
-      </div>
+      </div> */}
       <div
         className='xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden'
       >

@@ -43,7 +43,7 @@ const About = () => {
 
       <motion.div
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] space-y-4'
+        className='mt-4 text-secondary text-[17px] leading-[30px] space-y-4'
       >
         <p>I am a highly skilled Software Engineer and Game Developer with expertise in immersive technologies, web development, backend systems, and 3D modeling. My technical proficiency spans across C++, C#, 3D Blender, WebGL, VR, and AI, enabling me to deliver creative and robust solutions.</p>
         

@@ -155,9 +155,7 @@ const Footer = () => {
             <p className="text-gray-400 text-sm">
               © {currentYear} Muhammad Hamza. All rights reserved.
             </p>
-            <p className="text-gray-400 text-sm flex items-center">
-              Made with <FaHeart className="text-red-500 mx-1" size={12} /> using React & Tailwind CSS
-            </p>
+         
           </div>
         </motion.div>
       </div>
